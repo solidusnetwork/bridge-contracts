@@ -1,0 +1,10 @@
+{
+  "network": "testnet",
+  "chainId": 5042002,
+  "usdcReceiver": "0x70Aa006Faff8Ca243cfb66DeAd122f85Fe31F880",
+  "usdcReceiverImplementation": "0xdFD5C1105Aa13cE6a7acCAe72755C35ff5f07Dd3",
+  "messageTransmitter": "0xE737e5cEBEEBa77EFE34D4aa090756590b1CE275",
+  "usdc": "0x3600000000000000000000000000000000000000",
+  "mirror": "0x0a5a0d19206f436d67B7b87BF4c889d5b769517A",
+  "owner": "0x23A8E34E422A9c2E88c1F205070758b84191d294"
+}

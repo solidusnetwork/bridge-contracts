@@ -1,0 +1,58 @@
+{
+  "cases": [
+    {
+      "chainId": "50002",
+      "digest": "0x7ffc706745bc36f8ddd6e544424ccd739af57b870d2b524e438d2f9b235705b1",
+      "domain": 11155111,
+      "domainSeq": "1",
+      "ethSigned": "0xcd8a5b15186bfec60dbfa9678c5853c012ecd1cf331794b7656c42cbc785046a",
+      "messageId": "0xa1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1",
+      "name": "sepolia-first",
+      "preimage": "0x534f4c494455535f4252494447455f4154544553544154494f4e5f5631000000000000c35200aa36a70000000000000001a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a10000000000000384",
+      "signature": "0xbc9a2ff55e7eb08eba21e96368cf746c3d58b931ad0a1372a016e0eb6e034b8d741b12ce8740bdf3e40aa5f976dff61867ecae6c6695bfd64d7b88036ad690751b",
+      "signer": "0x70997970c51812dc3a010c7d01b50e0d17dc79c8",
+      "solidusHeight": "900"
+    },
+    {
+      "chainId": "50002",
+      "digest": "0xf67e9e46277407c9aa8e70c8c76409426226899203568763fab983cca14fb473",
+      "domain": 43113,
+      "domainSeq": "7",
+      "ethSigned": "0x9a742ae6110b55fa57e30243284377324f9183a7244fa25e825838340f5d6e07",
+      "messageId": "0xa2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2",
+      "name": "fuji-seq-7",
+      "preimage": "0x534f4c494455535f4252494447455f4154544553544154494f4e5f5631000000000000c3520000a8690000000000000007a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a200000000003010b0",
+      "signature": "0xb7eba17de35c8cb4582c824713f5c785a7bfb76acef332db6b941bbf7757b4876d2b1bf78177b85e5ea01b6e07bd448d0dcc36abcdda9a663f98a784a6369a7e1b",
+      "signer": "0x70997970c51812dc3a010c7d01b50e0d17dc79c8",
+      "solidusHeight": "3150000"
+    },
+    {
+      "chainId": "50001",
+      "digest": "0x0fadf43d10ed7036ac6094433c4d8631f94b7124572ff893b8f5826e2040b95e",
+      "domain": 5042002,
+      "domainSeq": "2",
+      "ethSigned": "0x048b277ff77a4a7a9bbd39da74a0b866d7ecefd562f3d8bc54fc8aa29300ba44",
+      "messageId": "0xa3a3a3a3a3a3a3a3a3a3a3a3a3a3a3a3a3a3a3a3a3a3a3a3a3a3a3a3a3a3a3a3",
+      "name": "arc-devnet-chain-id",
+      "preimage": "0x534f4c494455535f4252494447455f4154544553544154494f4e5f5631000000000000c351004cef520000000000000002a3a3a3a3a3a3a3a3a3a3a3a3a3a3a3a3a3a3a3a3a3a3a3a3a3a3a3a3a3a3a3a3000000000000002a",
+      "signature": "0xbd6fc7e6c673e70f8239e68759a4833cc09ef30d1e9d7da46863f5f2e7901efa634b2c3acdee8f1800426c4c1fb30743751e95f195082df611928d0cfa9b34ef1c",
+      "signer": "0x70997970c51812dc3a010c7d01b50e0d17dc79c8",
+      "solidusHeight": "42"
+    },
+    {
+      "chainId": "50002",
+      "digest": "0x2c9a659bbf43845502aba3ae917ad4502e0ae9e7e5cb5084682b612c4951929f",
+      "domain": 11155111,
+      "domainSeq": "18446744073709551615",
+      "ethSigned": "0x511d1e479add1032007eacb8e9f6edb3ec628f611d6dd01750ab75f7276b4ae1",
+      "messageId": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "name": "max-seq-and-height",
+      "preimage": "0x534f4c494455535f4252494447455f4154544553544154494f4e5f5631000000000000c35200aa36a7ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "signature": "0x2af68ba5219dc2fbb747c4eb22c48173717dd9350b671e8a4c1d05396c86d78044572df46efe18ba4d3ac2c7ba911025194d4d62d9cfef51c7737e088f8865dc1b",
+      "signer": "0x70997970c51812dc3a010c7d01b50e0d17dc79c8",
+      "solidusHeight": "18446744073709551615"
+    }
+  ],
+  "signer": "0x70997970c51812dc3a010c7d01b50e0d17dc79c8",
+  "version": 1
+}

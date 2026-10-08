@@ -1,0 +1,11 @@
+{
+  "network": "testnet",
+  "chainId": 43113,
+  "timelock": "0x23A8E34E422A9c2E88c1F205070758b84191d294",
+  "registry": "0x19aF92b387200827E0540f516FEd1468B09806A5",
+  "mirror": "0x0a5a0d19206f436d67B7b87BF4c889d5b769517A",
+  "exampleGatedVault": "0x923f75C32F3e1556Ee516d44E89088454D9E27a8",
+  "startSeq": 1,
+  "threshold": 3,
+  "registeredInRegistry": true
+}
