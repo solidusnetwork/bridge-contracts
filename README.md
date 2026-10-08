@@ -48,7 +48,8 @@ forge test
 | Avalanche Fuji | 43113 | `0x0a5a0d19206f436d67B7b87BF4c889d5b769517A` | `0x19aF92b387200827E0540f516FEd1468B09806A5` | `0x23A8E34E422A9c2E88c1F205070758b84191d294` | `0x70Aa006Faff8Ca243cfb66DeAd122f85Fe31F880` |
 | Arc testnet | 5042002 | `0x0a5a0d19206f436d67B7b87BF4c889d5b769517A` | `0x19aF92b387200827E0540f516FEd1468B09806A5` | `0x23A8E34E422A9c2E88c1F205070758b84191d294` | `0x70Aa006Faff8Ca243cfb66DeAd122f85Fe31F880` |
 
-Read the live addresses from `GET https://bridge.solidus.network/v1/routes`.
+Read the live addresses from the `/v1/routes` endpoint of the Bridge API, documented at
+https://docs.solidus.network/api/bridge.
 
 ## More
 
